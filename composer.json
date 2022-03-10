@@ -1,5 +1,5 @@
 {
-    "name": "johnathanmiller/secure-env-php",
+    "name": "uziiuzair/secure-env-php",
     "description": "Encrypt environment files for production use.",
     "keywords": ["dotenv", "encryption", "env", "environment", "environment-variables", "environment-vars", "secure-env"],
     "type": "library",
@@ -9,6 +9,11 @@
             "name": "Johnathan Miller",
             "email": "hello@johnathanmiller.com",
             "homepage": "https://johnathanmiller.com"
+        },
+        {
+            "name": "Uzair Hayat",
+            "email": "business@uziiuzair.com",
+            "homepage": "https://uziiuzair.com"
         }
     ],
     "require": {

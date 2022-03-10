@@ -1,7 +1,5 @@
 # Secure Env PHP
 
-[![Build Status](https://travis-ci.org/johnathanmiller/secure-env-php.svg?branch=master)](https://travis-ci.org/johnathanmiller/secure-env-php)
-
 Env encryption and decryption library.  
 Prevent committing and exposing vulnerable plain-text environment variables in production environments.
 
@@ -10,7 +8,7 @@ You can view a more in-depth tutorial on [Medium](https://medium.com/@johnathanm
 ## Installation
 Install secure-env-php using Composer
 ```
-composer require johnathanmiller/secure-env-php
+composer require uziiuzair/secure-env-php
 ```
 
 ## .env
@@ -68,3 +66,4 @@ $host = getenv('DB_HOST');
 
 ## Acknowledgements
 **Secure Env PHP** is inspired by https://github.com/kunalpanchal/secure-env for NodeJS.
+**Secure Env PHP** is originally writted by https://github.com/johnathanmiller
