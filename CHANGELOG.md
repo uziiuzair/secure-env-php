@@ -1,3 +1,6 @@
+## 2.1.0, 2022-11-3
+- Removed g flag from Parser.php
+
 ## 2.0.1, 2019-01-06
 - Fixed incorrect order of arguments in encrypt method
 
